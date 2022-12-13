@@ -341,11 +341,11 @@
     <Content Include="Public\images\Product\single-product\s-product-s-2.jpg" />
     <Content Include="Public\images\Product\single-product\s-product-s-3.jpg" />
     <Content Include="Public\images\Product\single-product\s-product-s-4.jpg" />
-    <Content Include="Public\images\Product\TTN1.jpg" />
-    <Content Include="Public\images\Product\TTN2.jpg" />
-    <Content Include="Public\images\Product\TTN3.jpg" />
-    <Content Include="Public\images\Product\TTN4.jpg" />
-    <Content Include="Public\images\Product\TTN5.jpg" />
+    <Content Include="Public\images\TTN1.jpg" />
+    <Content Include="Public\images\TTN2.jpg" />
+    <Content Include="Public\images\TTN3.jpg" />
+    <Content Include="Public\images\TTN4.jpg" />
+    <Content Include="Public\images\TTN5.jpg" />
     <Content Include="Public\js\bootstrap.min.js" />
     <Content Include="Public\js\contact.js" />
     <Content Include="Public\js\custom.js" />
